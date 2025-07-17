@@ -1,8 +1,6 @@
 
 # LLM Integration Via Groq
 
-## Note
-Add the files `General Chat.py` and `Recipe Bot.py` into a folder named `pages`
 
 This project is a functioning chat bot via _groq_.
 
@@ -14,13 +12,13 @@ It provides:
 ## Features
 
 **Secure API Key Input**  
-- Enter your GROQ API key — it’s stored in session state for use across all pages.
+- Enter your GROQ API key â€” itâ€™s stored in session state for use across all pages.
 
 **API Key Validation**  
 - The app checks your key by making a test request using _ping_.
 
 **General Chat Bot**  
-- Choose your chat bot’s **personality**:  
+- Choose your chat botâ€™s **personality**:  
   - Normal: Balanced, everyday tone.  
   - Detailed: In-depth explanations with fun facts.  
   - Concise: Short, summarized answers.  
